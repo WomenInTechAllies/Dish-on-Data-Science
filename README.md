@@ -12,7 +12,7 @@ We had an amazing Data Panel discussion on Wednesday, Sept. 26th. A huge thank y
 Unfortunately, we were unable to record the session,  however our panelists have shared  the list below of resources to help you nurture your inner data scientist.
  
 
-From Ada:
+## From Ada:
 
  
 
@@ -31,7 +31,7 @@ https://pgexercises.com
 https://www.kaggle.com
  
 
-From Kelly:
+## From Kelly:
 
  
 
@@ -53,14 +53,14 @@ Strength Finder is a great way to find your strengths and put together a one pag
 https://books.google.com/books?id=3sq9tAEACAAJ&dq=strengthsfinder+2.0&hl=en&sa=X&ved=0ahUKEwiGqePypNzdAhWnnOAKHQTDBywQ6AEIQjAE
  
 
-From Arun:
+## From Arun:
 
  
 
 I have successfully and frequently used EdX.org. Assignments and projects are still free you just don’t get an ‘official’ certificate.
  
 
-From Rick:
+## From Rick:
 
  
 
@@ -82,7 +82,7 @@ One more...and I hope Dr. Zeydy does not mind - I think she referenced her compa
 
  
 
-From Zeydy:
+## From Zeydy:
 
  
 
@@ -103,7 +103,7 @@ Data Analysis with Python: https://courses.cognitiveclass.ai/courses/course-v1:C
 
  
 
-From Alani:
+## From Alani:
 
  
 
